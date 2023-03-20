@@ -1,6 +1,4 @@
 import React from 'react'
-import gear from '../assets/gear.png'
-import { BsGear } from 'react-icons/bs'
 
 
 

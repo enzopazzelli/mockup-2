@@ -1,7 +1,8 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { FaBars, FaTimes } from 'react-icons/fa';
 import { Link } from 'react-scroll'
-import logo from '../assets/R.png';
+// import logo from '../assets/R.png';
+import logo2 from '../assets/Raise.png';
 
 
 
@@ -56,7 +57,7 @@ const Navbar = () => {
         <nav className='flex justify-between items-center w-full h-20 p-4 min-h-[60px] text-black  border-b-2'>
             <div>
                 <h1 className='text-5xl font-signature ml-3 text-red-600'>
-                    <img src={logo} alt="logo" width={35} className='inline' />aise
+                    <img src={logo2} alt="logo" width={100} className='inline pt-4' />
                 </h1>
             </div>
 

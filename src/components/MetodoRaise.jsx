@@ -1,6 +1,6 @@
 import React from 'react'
 import logo2 from '../assets/Raise.png';
-import { ImInfinite } from 'react-icons/im'
+
 // import { BsRocketTakeoff } from 'react-icons/bs'
 
 const MetodoRaise = () => {
